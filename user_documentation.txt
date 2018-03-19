@@ -6,4 +6,5 @@ It can be ran in one of two ways:
 - Edit the 'run' file to reference your local directory instead of 'kheynema'.
 - Type './run' inside the folder to run the job. 
 
+* Alternative *
 - The folder 'intellij' is set up to run the code locally using the provided idea project.
