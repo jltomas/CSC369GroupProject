@@ -84,7 +84,7 @@ object Driver extends App {
   }
 
   def findFireAlarmsPerHour():Unit = {
-	val file = Source.fromFile("input/911.csv").getLines.toList;
+	val file = Source.fromFile("911.csv").getLines.toList;
 	val lines = sc.parallelize(file);
 	val pw = new PrintWriter(new File("fireAlarmsPerHour.txt"));
 
@@ -101,7 +101,7 @@ object Driver extends App {
   }
 
   def findRespiratoryEmergenciesByMonth():Unit = {
-    val file = Source.fromFile("input/911.csv").getLines.toList;
+    val file = Source.fromFile("911.csv").getLines.toList;
     val lines = sc.parallelize(file);
     val pw = new PrintWriter(new File("respiratoryEmergenciesByMonth.txt"));
     
@@ -118,7 +118,7 @@ object Driver extends App {
   }
 
   def findRespiratoryEmergenciesByHour():Unit = {
-    val file = Source.fromFile("input/911.csv").getLines.toList;
+    val file = Source.fromFile("911.csv").getLines.toList;
     val lines = sc.parallelize(file);
     val pw = new PrintWriter(new File("respiratoryEmergenciesByHour.txt"));
     
@@ -135,7 +135,7 @@ object Driver extends App {
   }
 
   def findStrokesPerHour():Unit = {
-    val file = Source.fromFile("input/911.csv").getLines.toList;
+    val file = Source.fromFile("911.csv").getLines.toList;
     val lines = sc.parallelize(file);
     val pw = new PrintWriter(new File("strokesPerHour.txt"));
 
