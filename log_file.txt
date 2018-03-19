@@ -17,5 +17,8 @@ Justin: finishing up his algorithm
         Prediction: Traffic accidents involving vehicles will be the most common, esp. in densely populated areas.
         Finished my algorithm: Added graphs + resulting data to repo. 
         Result: Traffic accidents involving vehicles are by far the most common accident across almost all zip codes.
-Kort: Added source code to repo and organized documents to turn in.
-Ben: Added source code to repo and organized documents to turn in.
+Ben: Added source code to repo 
+Kort: Added source code to repo 
+      Converted intelliJ project to run on the cluster and separated the project setups.
+      Organized user documentation, data output, and justification for using Hadoop
+      Submitted github repo to Dr. Stanchev
