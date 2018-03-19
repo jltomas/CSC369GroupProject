@@ -4,6 +4,5 @@
 
 - To run the file on the cluster, change the code to remove the SetMaster() call. 
 
-- The Driver.scala file has different defined methods for each part of the analysis.
-
-- To see the results from one particular part, change the Driver.scala file to call that particular method. 
+- The Driver.scala file calls several methods which generate .csv files of output data. 
+  To only generate specific data, comment out undesired methods. 
