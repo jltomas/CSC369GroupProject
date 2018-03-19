@@ -11,6 +11,7 @@ import org.apache.log4j.Logger
 import org.apache.log4j.Level
 
 import scala.collection._
+import scala.collection.immutable.ListMap
 
 object Driver extends App {
   Logger.getLogger("org").setLevel(Level.OFF)
@@ -54,4 +55,16 @@ object Driver extends App {
     result.foreach(x => pw.println(x._1 + "," + x._2._1 + "," + x._2._2))
     pw.close()
   }
+
+  val myTuple = lines
+    .map(_.split(","))
+    .map(x => (x(3), x(4)))
+    .persist();
+
+  val accidentCounts = myTuple.countByValue()
+
+  val sortByKey = ListMap(accidentCounts.toSeq.sortBy(x => (x._1.toString().substring(1, 6), x._2)): _*)
+  sortByKey.foreach {
+    println(_)
+  };
 }
