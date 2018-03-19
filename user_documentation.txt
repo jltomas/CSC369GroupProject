@@ -1,6 +1,9 @@
 This project runs using the provided setup from the 369 lecture slides. 
 It can be ran in one of two ways:
 
-- * Recommended * The folder 'cluster' compiles on the ambari-head head server by opening the folder and typing './run' 
+* Recommended * 
+- Copy the folder 'cluster' to the ambari-head head server.
+- Edit the 'run' file to reference your local directory instead of 'kheynema'.
+- Type './run' inside the folder to run the job. 
 
-- The folder 'intellij' is set up to run the code locally in the provided project.
+- The folder 'intellij' is set up to run the code locally using the provided idea project.
