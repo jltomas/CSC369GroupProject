@@ -197,7 +197,7 @@ object Driver extends App {
     
     val pw = new PrintWriter(new File("emergencyByZipcode.txt"))
     val sortByKey = ListMap(accidentCounts.toSeq.sortBy(x => (x._1.toString().substring(1, 6), x._2)): _*)
-    .sortByKey.foreach {
+    sortByKey.foreach {
       pw.println(_)
     } 
     pw.close()
