@@ -1,0 +1,27 @@
+This project runs using the provided setup from the 369 lecture slides. 
+
+Run the App.scala file using Spark 2.11 either locally or on the cluster. 
+
+The driver file contains the following methods which carry out different analysis. 
+To run one set of analysis, alter the scala file to run the desired method.
+
+// Vehicle Accidents By Month
+vehicleAccidentsByMonth()
+
+// Vehicle Accidents By Hour
+vehicelAccidentsByHour()
+
+// Fire Alarms By Month
+fireAlarmsByMonth()
+
+// Fire Alarms By Hour
+fireAlarmsByHour()
+
+// Respiratory Emergencies By Month
+respiratoryEmergenciesByMonth()
+
+// Respiratory Emergencies By Hour
+respiratoryEmergenciesByHour()
+
+// Strokes By Hour
+strokesByHour()

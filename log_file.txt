@@ -1,0 +1,21 @@
+3/10/2018: 
+Ben/Justin/Kort: Group work, setting up github, discussing approach to project.
+IntelliJ setup (for Justin).
+Divide up analysis
+
+3/14/2018: 
+Ben/Justin/Kort: Group meeting in CSL Talking about individual progress. Time spent coding together. Organizing slides.
+
+3/15/2018: 
+Independent work:
+Ben finishing up algorithm and adding to slides
+Kort finishing up algorithm and adding to slides
+Justin working on algorithm and adding to slides
+
+3/17/2018: 
+Justin: finishing up his algorithm
+        Prediction: Traffic accidents involving vehicles will be the most common, esp. in densely populated areas.
+        Finished my algorithm: Added graphs + resulting data to repo. 
+        Result: Traffic accidents involving vehicles are by far the most common accident across almost all zip codes.
+Kort: Added source code to repo and organized documents to turn in.
+Ben: Added source code to repo and organized documents to turn in.
