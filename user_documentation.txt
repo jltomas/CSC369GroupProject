@@ -1,8 +1,6 @@
-- This project runs using the provided setup from the 369 lecture slides. 
+This project runs using the provided setup from the 369 lecture slides. 
+It can be ran in one of two ways:
 
-- The Driver.scala file is set up to run in the provided IntelliJ project. 
+- * Recommended * The folder 'cluster' compiles on the ambari-head head server by opening the folder and typing './run' 
 
-- To run the file on the cluster, change the code to remove the SetMaster() call. 
-
-- The Driver.scala file calls several methods which generate .csv files of output data. 
-  To only generate specific data, comment out undesired methods. 
+- The folder 'intellij' is set up to run the code locally in the provided project.
