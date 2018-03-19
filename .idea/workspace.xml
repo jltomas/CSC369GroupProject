@@ -1,7 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="914ace89-1f2d-4f8c-9cbc-aa067978b47b" name="Default" comment="" />
+    <list default="true" id="914ace89-1f2d-4f8c-9cbc-aa067978b47b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$270aed1a309caf3ebabb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$6d58da0a3ece16f81b06.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$a5fbb415aa5aed1e9d87.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$c84105e6280ae5f9cba1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$e5648bdd8d895752e43b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$f098b70137652e1e5055.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$$anonfun$10.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$$anonfun$11.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$$anonfun$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$$anonfun$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$$anonfun$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$$anonfun$5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$$anonfun$6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$$anonfun$7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$$anonfun$8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$$anonfun$9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$$anonfun$findTopCategories$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$$anonfun$findTopCategoryEmergency$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$$anonfun$findTopSpecificEmergencies$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/topcategories.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/topcategoryemergency.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/topspecificemergencies.csv" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/csc369groupproject.iml" afterPath="$PROJECT_DIR$/.idea/modules/csc369groupproject.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1e90952251d8a45bc521$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$a5fbb415aa5aed1e9d87$.class" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1e90952251d8a45bc521.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$270aed1a309caf3ebabb.cache" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1e90952251d8a45bc521.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2e814485f2867793a4a1$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$e5648bdd8d895752e43b$.class" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2e814485f2867793a4a1.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$6d58da0a3ece16f81b06.cache" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2e814485f2867793a4a1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$39a99cff287f0ac93405$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$270aed1a309caf3ebabb$.class" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$39a99cff287f0ac93405.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$a5fbb415aa5aed1e9d87.cache" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$39a99cff287f0ac93405.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4ed156ab2e04373b7295$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$c84105e6280ae5f9cba1$.class" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4ed156ab2e04373b7295.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$c84105e6280ae5f9cba1.cache" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4ed156ab2e04373b7295.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$69352ceaf72df45474ef$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$bf324f8d75dab9ee9b05$.class" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$69352ceaf72df45474ef.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$bf324f8d75dab9ee9b05.cache" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$69352ceaf72df45474ef.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$bf324f8d75dab9ee9b05.class" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$75d1fd7b87ebaf0993b8$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$6d58da0a3ece16f81b06$.class" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$75d1fd7b87ebaf0993b8.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$e5648bdd8d895752e43b.cache" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$75d1fd7b87ebaf0993b8.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ca682427f457d5191e62$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$f098b70137652e1e5055$.class" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ca682427f457d5191e62.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$f098b70137652e1e5055.cache" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ca682427f457d5191e62.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/csc369groupproject-build/scala_2.12/sbt_1.0/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/csc369groupproject-build/scala_2.12/sbt_1.0/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/csc369groupproject-build/scala_2.12/sbt_1.0/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/csc369groupproject-build/scala_2.12/sbt_1.0/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-test.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-csc369groupproject-build-test.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/finalproject/Driver.scala" afterPath="$PROJECT_DIR$/src/main/scala/finalproject/Driver.scala" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$$anonfun$1.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$delayedInit$body.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver$delayedInit$body.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/finalproject/Driver.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/finalproject/finalproject$sources/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/finalproject/finalproject$sources/0.1/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/finalproject/finalproject$sources/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/finalproject/finalproject$sources/0.1/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/finalproject/finalproject_2.11/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/finalproject/finalproject_2.11/0.1/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/finalproject/finalproject_2.11/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/finalproject/finalproject_2.11/0.1/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-pom.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject$sources-test.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/finalproject-finalproject_2.11-test.xml" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -19,34 +121,64 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="51" lean-forward="false" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Driver.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Driver.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/finalproject/Driver.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="435">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
-                <element signature="e#22#60#0" expanded="true" />
+                <element signature="e#22#56#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="911.csv" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/911.csv">
-          <provider selected="true" editor-type-id="LargeFileEditor">
+      <file leaf-file-name="topcategoryemergency.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/topcategoryemergency.csv">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="topcategories.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/topcategories.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="topspecificemergencies.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/topspecificemergencies.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="911.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/911.csv">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state relative-caret-position="7455">
+              <caret line="497" column="26" lean-forward="false" selection-start-line="497" selection-start-column="26" selection-end-line="497" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -70,10 +202,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="11" />
-    <option name="y" value="45" />
-    <option name="width" value="1400" />
-    <option name="height" value="781" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="821" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -90,10 +221,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,6 +252,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,7 +382,7 @@
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1520721138352" />
+    <option name="lastUpdateTimestamp" value="1520724099984" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -297,38 +428,38 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="11" y="45" width="1400" height="781" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="821" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944608" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944608" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30991736" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2639485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944608" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -344,6 +475,195 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topcategories.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topcategoryemergency.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topspecificemergencies.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/911.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="7455">
+          <caret line="497" column="26" lean-forward="false" selection-start-line="497" selection-start-column="26" selection-end-line="497" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/finalproject/Driver.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="14" lean-forward="true" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+          <folding>
+            <element signature="e#22#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/finalproject/Driver.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="42" column="68" lean-forward="false" selection-start-line="42" selection-start-column="68" selection-end-line="42" selection-end-column="68" />
+          <folding>
+            <element signature="e#22#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topcategoryemergency.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topspecificemergencies.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/911.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="7455">
+          <caret line="497" column="26" lean-forward="false" selection-start-line="497" selection-start-column="26" selection-end-line="497" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topcategories.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topcategories.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/911.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="7455">
+          <caret line="497" column="26" lean-forward="false" selection-start-line="497" selection-start-column="26" selection-end-line="497" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/finalproject/Driver.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="70" lean-forward="false" selection-start-line="40" selection-start-column="70" selection-end-line="40" selection-end-column="70" />
+          <folding>
+            <element signature="e#22#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topcategories.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/911.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="7455">
+          <caret line="497" column="26" lean-forward="false" selection-start-line="497" selection-start-column="26" selection-end-line="497" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/finalproject/Driver.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="70" lean-forward="false" selection-start-line="40" selection-start-column="70" selection-end-line="40" selection-end-column="70" />
+          <folding>
+            <element signature="e#22#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/911.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/finalproject/Driver.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="e#22#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="51" lean-forward="false" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
           <folding />
@@ -352,10 +672,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/finalproject/Driver.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="45">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="e#22#60#0" expanded="true" />
+            <element signature="e#22#56#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -364,6 +684,55 @@
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/911.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="7455">
+          <caret line="497" column="26" lean-forward="false" selection-start-line="497" selection-start-column="26" selection-end-line="497" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topcategoryemergency.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topspecificemergencies.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topcategories.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/finalproject/Driver.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#56#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
