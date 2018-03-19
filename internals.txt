@@ -1,0 +1,22 @@
+The Driver.scala file includes the following methods. To print a particular part of the analysis, call that method.
+
+// Vehicle Accidents By Month
+vehicleAccidentsByMonth()
+
+// Vehicle Accidents By Hour
+vehicelAccidentsByHour()
+
+// Fire Alarms By Month
+fireAlarmsByMonth()
+
+// Fire Alarms By Hour
+fireAlarmsByHour()
+
+// Respiratory Emergencies By Month
+respiratoryEmergenciesByMonth()
+
+// Respiratory Emergencies By Hour
+respiratoryEmergenciesByHour()
+
+// Strokes By Hour
+strokesByHour()
