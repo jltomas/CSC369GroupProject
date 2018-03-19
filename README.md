@@ -1,4 +1,6 @@
 # CSC369GroupProject
+# Team: git reset --hard HEAD
+# Ben Whittle, Justin Tomas, Kort Heyneman
 
 Dataset:
 https://www.kaggle.com/mchirico/montcoalert
